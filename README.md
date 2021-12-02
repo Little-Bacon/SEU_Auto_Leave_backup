@@ -27,7 +27,7 @@
 
 1. 首先 fork 本项目到自己的仓库
 
-![](https://cdn.jsdelivr.net/gh/zgzhengSEU/imagebed/Image/202112021430674.png)
+![](https://cdn.jsdelivr.net/gh/zgzhengSEU/imagebed/Image/202112021445578.png)
 
 2. 进入自己 fork 的仓库，点击 Settings -> Secrets -> New repository secret，它们将作为配置项，在应用启动时传入程序。
 
