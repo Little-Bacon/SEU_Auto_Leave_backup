@@ -1,8 +1,8 @@
 备份[@quzard](https://github.com/quzard)的请假脚本
 
-[东南大学自动每日健康申报脚本](https://github.com/zgzhengSEU/SEU-Auto-Health-Declaration)
+自动健康申报：[东南大学自动每日健康申报脚本](https://github.com/zgzhengSEU/SEU-Auto-Health-Declaration)
 
-[东南大学自动入校申请脚本](https://github.com/zgzhengSEU/SEU_Auto_Admission_BackUp)
+自动入校：[东南大学自动入校申请脚本](https://github.com/zgzhengSEU/SEU_Auto_Admission_BackUp)
 
 -----------
 
