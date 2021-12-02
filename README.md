@@ -46,6 +46,6 @@
 
 3. 去 Actions 那 Enable Workflow, 然后点击 star 手动启动一次脚本
 
-![](https://cdn.jsdelivr.net/gh/zgzhengSEU/imagebed/Image/202112021433604.png)
+![](https://cdn.jsdelivr.net/gh/zgzhengSEU/imagebed/Image/202112021444332.png)
 
 4. 如果需要修改上报时间，修改 `.github/workflows/auto_admission.yml`
